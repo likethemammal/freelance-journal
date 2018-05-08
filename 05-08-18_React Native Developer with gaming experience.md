@@ -3,6 +3,7 @@
 - **Dates:** 4/23/18 - 5/7/18
 - **Estimate:** About a week
 - **Job Description:** [Upwork PDF](upwork_job_details_1.pdf)
+- **Submitted Proposal:** [Upwork Cover Letter](05-08-18_cover-letter.md)
 
 **tldr:** Used Upwork to get my first freelance job. Made a Breakout-like game in React Native. Spent days fiddling with RN physics libraries and game engines until landing on Matter.js. Ended up animating with Javascript, not Animated. Used CodeSandbox to quickly iterate and demo progress. Struggled with production build, but took a day off and got it figured out. Classic React Native fun and complexity.
 
@@ -18,9 +19,9 @@ Before I started, I thought out how I would animate the balls on screen and hand
 
 #### Finding a physics engine
 
-Realizing that, I was worried that creating an animation loop manually and animating using Javascript would be horribly slow. There was also the possibility of using some react-canvas library that includes HTML Canvas, so I could just use that instead of animating RN View's.
+Realizing that, I was worried that creating an animation loop manually and animating using Javascript would be horribly slow. There was also the possibility of using some react-canvas library that imports HTML Canvas, so I could just use that instead of animating RN View's.
 
-Either way, I would have to use JS, so I set out to find a RN physics library that works with React Native. Surprisingly few options. ReactGameKit is the go-to game creation framework for React and React Native, but it had more going on than what I wanted. react-native-game-engine seemed promising and react-native-collidable also sounded like it would work for my use case.
+Either way, I would have to use JS, so I set out to find a JS physics library that works with React Native. Surprisingly few options. ReactGameKit is the go-to game creation framework for React and React Native, but it had more going on than what I wanted. react-native-game-engine seemed promising and react-native-collidable also sounded like it would work for my use case.
 
 I decided against react-native-collidable because I was worried I'd need more specific control over the physics, and I didnt want to be restricted to collisions. After fiddling with react-native-game-engine and ReactGameKit for multiple days I wasnt any closer to have React Native working with a physics engine.
 
