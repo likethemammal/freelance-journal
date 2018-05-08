@@ -2,6 +2,7 @@
 
 - **Dates:** 4/23/18 - 5/7/18
 - **Estimate:** About a week
+- **Job Description:** [Upwork PDF](upwork_job_details_1.pdf)
 
 **tldr:** Used Upwork to get my first freelance job. Made a Breakout-like game in React Native. Spent days fiddling with RN physics libraries and game engines until landing on Matter.js. Ended up animating with Javascript, not Animated. Used CodeSandbox to quickly iterate and demo progress. Struggled with production build, but took a day off and got it figured out. Classic React Native fun and complexity.
 
