@@ -2,7 +2,7 @@
 
 I'm a web app and game developer with 7+ years of experience. I've been making Javascript apps for 5 years and I follow game design best practices as a passion. I've been working with React and React Native for several years and I'm very comfortable with their ecosystem. I've long believed that React could be applied to game development more, and would love to get involved with this project.
 
-Portfolio site - http://likethemammal.com less
+Portfolio site - http://likethemammal.com
 
 #### How long have you been working with react-native?
 
@@ -10,7 +10,7 @@ I've been working with React Native about 2 years, and I've been working with Re
 
 Last year I went to Chain React, the React Native conference in Portland. There I met more of the community and learned about some of the trends that are taking over the industry.
 
-I mostly work with Android less
+I mostly work with Android
 
 #### Do you have experience publishing a react-native application to the Android Play store or the Apple App store?
 
